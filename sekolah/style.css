@@ -1,0 +1,133 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lemonada', cursive;
+}
+.page-login{
+    width: 100%;
+    height: 100vh;
+    display:flex;
+     background: linear-gradient(#000046, #1cb5e0);
+    justify-content: center;
+    align-items: center;
+}
+
+.kotak{
+    border:5px;
+    background-color: #1cb5e0;
+}
+.box-header{
+    padding: 16px;
+    border: bottom 1px solid;
+    color: #fff;
+    background-color: #000046;
+}
+
+.box-body{
+    padding: 16px;
+}
+.box-footer{
+    border: top 1px solid;
+    background-color: #f2f2f2;
+    padding:16px;
+}
+.form{
+    margin: 20px;
+}
+.form-group{
+    margin-bottom: 15px;
+}
+.form-group Label{
+    display: block;
+    margin-bottom: 8px;
+    margin-top: 8px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.form-group .input-control {
+    padding: 10px 40px;
+    box-sizing: border-box;
+    font-size: 17px;
+}
+.kotak-login{
+    width: 400px;
+}
+.btn_login{
+    border: 1px solid;
+    padding: 8px 16px;
+    font-size: 15px;
+}
+
+.btn_login:hover{
+    cursor: pointer;
+}
+.text-center{
+    text-align: center !important;
+}
+.alert-error{
+    padding: 10px 16px;
+    border: 1px;
+    background-color: #F83839;
+}
+.registration-form{
+    padding: 16px;
+    border: bottom 1px solid;
+    color: #fff;
+    background: linear-gradient(#000046, #1cb5e0);
+    width: 100%;
+    height: 100vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.kotak-regis{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right:10px;
+    border: 3px solid;
+    padding: 30px;
+}
+#Judul{
+    font-family: 'Dancing Script', cursive;
+font-family: 'Lemon', cursive;
+}
+#Judul{
+    font-family: 'Dancing Script', cursive;
+font-family: 'Lemon', cursive;
+padding: 20px;
+background-color: #fff;
+}
+.footer{
+    background-color: #fff;
+}
+#kel{
+    color: black;
+    font-family: 'Dancing Script', cursive;
+font-family: 'Lemon', cursive;
+font-size: 30px;
+}
+.nav-item{
+    font-size: 20px;
+    padding: 10px;
+}
+#navbarScroll .navbar-nav li a:hover {
+    background-color: rgb(70, 134, 218);
+    border-radius: 5px;
+    color: aliceblue;
+}
+.card-title{
+    text-align: center;
+}
+.card-text{
+    text-align: justify;
+}
+.menu{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right:10px;
+    border: 3px solid;
+    padding: 30px;
+}
